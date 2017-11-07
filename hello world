@@ -2,4 +2,6 @@
 void main()
 {
 print("hello.c")
+
+print{"this is the basyc program")
 }
